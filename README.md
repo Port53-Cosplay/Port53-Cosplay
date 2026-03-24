@@ -49,7 +49,7 @@ Incident response. Threat detection. Detection engineering. A SOC that actually 
 
 ## About Me
 
-Port53 is a play on my initials and DNS, because all roads lead back to port 53. I cosplay, I build hardware, I name everything after mythology and dinosaurs, and most of what I build started as a tool to solve my own problem.
+Port53 is a play on my initials and DNS, because all roads lead back to port 53. I cosplay, I build hardware, and everything I make gets named after something I'm a nerd about. Most of what I build started the same way. Something bothered me, I pulled the thread, and suddenly it's its own whole project.
 
 ## Contact
 

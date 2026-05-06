@@ -4,8 +4,6 @@
 
 Five years in financial crimes at Citi. I spotted the patterns in a fraud case that ended with the FBI prosecuting a document fraud ring. My findings got the detection policies rewritten on a platform thousands of analysts used daily. "Something about this doesn't look right" turned out to be an actual skill, and it pointed me straight at security.
 
-I've spent the last few years learning alongside a CISO, hands-on, through two security incidents, one of them a major breach at a global fintech conglomerate. SOC 2, ISO 27001 readiness, audit cycles, vendor evaluations. I learned by doing the work, not watching it.
-
 These days I mostly break AI agents and MCP servers. Not on purpose.
 
 I'm good in emergencies. When everything's on fire I am calm and focused. It's the boring parts that are hard. That's why I want to do incident response and detection full-time.
@@ -39,13 +37,15 @@ Pentesting idle clicker that teaches the engagement lifecycle. Coming soon.
 |---|---|---|
 | CompTIA PenTest+ | CompTIA Security+ | CompTIA Project+ |
 | CompTIA CySA+ *(detection & response)* | CompTIA Network+ | ITIL 4 |
-| ISC2 SSCP | CompTIA A+ | |
+| ISC2 SSCP | CompTIA A+ | ISACA CISA *(in progress)* |
 | | Linux Essentials | |
 | | CompTIA F+ | |
 
 ## What I'm Looking For
 
-Incident response. Threat detection. Detection engineering. Auditing. A SOC that actually invests in its analysts. Somewhere security isn't a checkbox.
+Incident response. Threat detection. Detection engineering. A SOC that actually invests in its analysts. Somewhere security isn't a checkbox.
+
+Also looking at audit and AI assurance roles. I'm pursuing CISA, and PuppetString has me sitting at the intersection of offensive research and assurance frameworks (NIST AI RMF, ISO/IEC 42001) — that's an active area I want to explore.
 
 ## About Me
 

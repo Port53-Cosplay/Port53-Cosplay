@@ -45,7 +45,7 @@ Pentesting idle clicker that teaches the engagement lifecycle. Coming soon.
 
 ## What I'm Looking For
 
-Incident response. Threat detection. Detection engineering. A SOC that actually invests in its analysts. Somewhere security isn't a checkbox.
+Incident response. Threat detection. Detection engineering. Auditing. A SOC that actually invests in its analysts. Somewhere security isn't a checkbox.
 
 ## About Me
 
